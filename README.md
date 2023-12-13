@@ -4,7 +4,7 @@ This project was created during the Alura's class *Web JS: CRUD with async JavaS
 
 Clone the repository and run it using *npm install* and *npx json-server --watch db.json* commands to access the final result.
 
-*This is an old Alura's class that was taken to fixate async JS' concepts. The code is outdated.*
+*This is an outdated Alura's class that was taken to fixate async JS' concepts. The code is outdated at the current time.*
 
 ## Used tools:
 
